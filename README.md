@@ -15,8 +15,8 @@ UI Design
 
 ![MovieAppImage2](https://user-images.githubusercontent.com/66914300/149370693-3adbc3e0-a108-46c9-a8dc-85660f04821f.PNG)
 
-📌API_URL="https://api.themoviedb.org/3/movie/popular?api_key=<<api_key_here>>"
+📌API_URL="https://api.themoviedb.org/3/movie/popular?c4feb3d6228096417bb1fbc23f6b7f3f"
 
 📌API_IMG="https://image.tmdb.org/t/p/w500/"
 
-📌API_SEARCH="https://api.themoviedb.org/3/search/movie?api_key=<<api_key_here>>&query"
+📌API_SEARCH="https://api.themoviedb.org/3/search/movie?c4feb3d6228096417bb1fbc23f6b7f3f&query"
